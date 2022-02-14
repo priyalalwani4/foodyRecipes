@@ -1,0 +1,16 @@
+[
+    {
+      "dish" : "pasta",
+      "description" : "its an italian dish.",
+      "ingridients" : ["Sauce","Pasta","Tomato","Capcicum","Brocolli"],
+      "recipe": "there once was a pasta , tasty and yummy!",
+      "preview_image": "image_1"
+    },
+     {
+      "dish" : "pasta",
+      "description" : "its an italian dish.",
+      "ingridients" : ["Sauce","Pasta","Tomato","Capcicum","Brocolli"],
+      "recipe": "there once was a pasta , tasty and yummy!",
+      "preview_image": "image_2"
+    }
+  ]
